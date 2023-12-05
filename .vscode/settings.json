@@ -39,5 +39,12 @@
     "editor.defaultFormatter": "esbenp.prettier-vscode",
     "editor.formatOnSave": true
   },
-  "editor.defaultFormatter": "esbenp.prettier-vscode"
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+
+  // Nuxtr
+  "nuxtr.openItemsAfterCreation": true,
+  "nuxtr.piniaFiles.defaultTemplate": "setup",
+  "nuxtr.vueFiles.firstTag": "script",
+  "nuxtr.vueFiles.style.alwaysScoped": true,
+  "nuxtr.vueFiles.style.defaultLanguage": "scss"
 }
